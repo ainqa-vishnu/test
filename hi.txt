@@ -1,2 +1,4 @@
-hi how are you
-what doing
+#!/bin/sh
+echo "what is your name?"
+read name
+echo "How do you do, $name?"
